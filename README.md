@@ -15,4 +15,4 @@ Esto es una lista desordenada:
 Nuevo cambio
 
 # Navegación
-[Enlace a página 2](pagina2)
+[Enlace a página 2](pagina2.md)
