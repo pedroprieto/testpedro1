@@ -13,3 +13,6 @@ Esto es una lista desordenada:
   * Elemento 3.1
   
 Nuevo cambio
+
+# Navegación
+[Enlace a página 2](pagina2)
