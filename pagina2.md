@@ -3,4 +3,4 @@ Esta es la página 2 de nuestro sitio.
 
 [Volver a página principal](README.md)
 
-[Ir a Google](https://www.youtube.com/)
+[Ir a Youtube](https://www.youtube.com/)
