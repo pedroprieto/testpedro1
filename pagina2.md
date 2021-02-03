@@ -7,3 +7,5 @@ Esta es la página 2 de nuestro sitio.
 
 
 ![Imagen de Octocat](https://octodex.github.com/images/yaktocat.png)
+
+[Imagen de Octocat](https://octodex.github.com/images/yaktocat.png)
