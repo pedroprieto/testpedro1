@@ -23,4 +23,4 @@ Nuevo cambio
 
 
 # Imagen
-![Imagen de Alicante](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/00/e6/2c/playa-la-granadella.jpg)
+![Imagen de Alicante](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/00/e6/2c/playa-la-granadella.jpg?w=1000&h=600&s=1)
